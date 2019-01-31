@@ -1,25 +1,22 @@
-# README
+## THP - Semaine 4 - Gossip de BATARD !
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+bundle install and you're ready to go
 
-Things you may want to cover:
+# Tables
 
-* Ruby version
+   - Users
+   - City
+   - Gossip
+   - Tag
+   - PrivateMessage
+   - Comment
+   - Like
 
-* System dependencies
+# Requirements
 
-* Configuration
+You will be able to Gossip as you pleased I let you discover the best application on market 
 
-* Database creation
+# Version software
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# Joelegossip
+   - Ruby version 2.5.1
+   - Rails version 5.2.1
